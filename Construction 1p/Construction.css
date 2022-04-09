@@ -1,0 +1,1931 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.body{
+    width: 100%;
+    background-image: url(Construction.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin-bottom: -200px;
+}
+.container{
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+    background-color: #00000091;
+}
+.container2{
+    width: 100%;
+    background-color: white;
+    height: 450px;
+    background-size: cover;
+    margin-top: -80px;
+    position: relative;
+}
+.rect{
+    width: 100%;
+    height: 60px;
+    background-color: yellow;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: relative;
+    text-align: center;
+    color: blue;
+}
+.logo{
+    position: relative;
+    margin-left: 250px;
+    color: yellow;
+    font-size: 70px;
+    font-family: Impact;
+    margin-top: 100px;
+}
+.manu{
+    position: relative;
+    margin-left: 50px;
+}
+ul{
+    font-size: 22px;
+    font-family:'Arial Narrow Bold';
+    color: black;
+    display: inline-flex;
+    margin-top: 40px;
+    list-style-type: none;
+}
+li{
+    margin: 20px;
+    color: white;
+}
+li:hover{
+    color: yellow;
+}
+a{
+    text-decoration: none;
+}
+.box1{
+    width: 300px;
+    height: 350px;
+    margin-left: 195px;
+    background-color: white;
+    box-shadow: 1px 1px 10px black;
+}
+.box1 h5{
+    width: 85%;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    font-size: 10px;
+    font-family: Cambria;
+}
+.box{
+    width: 100%;
+    background-color: yellow;
+    background-size: solid;
+    height: 20px;
+    margin-top: -5px;
+}
+.box1 img{
+    width: 100%;
+    position: relative;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    
+}
+.box2{
+    width: 300px;
+    top: -350px;
+    height: 350px;
+    margin-left: 510px;
+    background-color: white;
+    box-shadow: 1px 1px 10px black;
+    position: relative;
+}
+.box2 h5{
+    width: 85%;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    font-size: 10px;
+    font-family: Cambria;
+}
+.Bbox2{
+    width: 100%;
+    background-color: yellow;
+    background-size: solid;
+    height: 20px;
+    margin-top: -5px;
+}
+.box2 img{
+    width: 100%;
+    height: 165px;
+    position: relative;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    
+}
+.box3{
+    width: 300px;
+    position: relative;
+    top: -700px;
+    height: 350px;
+    margin-left: 825px;
+    background-color: white;
+    box-shadow: 1px 1px 10px black;
+}
+.box3 h5{
+    width: 85%;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    font-size: 10px;
+    font-family: Cambria;
+}
+.Bbox3{
+    width: 100%;
+    background-color: yellow;
+    background-size: solid;
+    height: 20px;
+    margin-top: -5px;
+}
+.box3 img{
+    width: 100%;
+    height: 165px;
+    position: relative;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    
+}
+/*About Us*/
+.Cover{
+    width: 100%;
+    background-size: solid;
+    background-color: white;
+    height: 350px;
+    margin-top: 35px;
+}
+.logotext {
+    position: relative;
+    margin-left: 250px;
+    color: yellow;
+    font-size: 70px;
+    font-family: Impact;
+    margin-top: 50px;
+}
+.Cover h2{
+    position: relative;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 35px;
+}
+.Cover p{
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 20px;
+    font-size: 18px;
+}
+/*Our Services*/
+.body2{
+    width: 100%;
+    background-image: url(Helmet.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 670px;
+}
+.Container3{
+    width: 100%;
+    height: 670px;
+    background-size: cover;
+    background-color: #00000091;
+}
+.lefttext h4{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    margin-left: 100px;
+    margin-top: 160px;
+    color: yellow;
+}
+.listbox{
+    width: 30%;
+    height: 600px;
+    background-color: #00000094;
+    background-size: solid;
+    position: relative;
+    margin-top: -350px;
+    border: solid white;
+    border-radius: 20px 20px 20px 20px;
+    float: right;
+    margin-right: 150px;
+}
+.listbox h2 {
+    color: yellow;
+    position: relative;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 20px;
+}
+.listbox h4{
+    font-size: 25px;
+    color: white;
+    position: relative;
+    text-align: center;
+}
+/*Contact Us*/
+
+
+.libox2{
+    width: 25%;
+    height: 500px;
+    background-color: #00000094;
+    background-size: solid;
+    position: relative;
+    margin-top: 20px;
+    margin-left: 150px;
+    border: solid yellow;
+    border-radius: 20px 20px 20px 20px;
+    float: left;
+}
+.libox2 h2 {
+    color: yellow;
+    position: relative;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 20px;
+}
+.lefttext2 h3{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    position: relative;
+    float: right;
+    margin-top: 160px;
+    margin-right: 150px;
+    color: yellow;
+}
+.info{
+    position: relative;
+    text-align: center;
+    margin-top: 20px;
+}
+#Name{
+    margin-bottom: 20px;
+    height: 30px;
+    border-radius: 10px 10px 10px 10px;
+}
+#Email{
+    margin-bottom: 20px;
+    height: 30px;
+    border-radius: 10px 10px 10px 10px;
+}
+#Contact{
+    margin-bottom: 20px;
+    border-radius: 10px 10px 10px 10px;
+    height: 30px;
+}
+#Message{
+    margin-bottom: 20px;
+    border-radius: 10px 10px 10px 10px;
+}
+#Button{
+    position: relative;
+    height: 30px;
+    width: 90px;
+    border-radius: 10px 10px 10px 10px;
+    font-size: 20px;
+}
+.icon{
+    position: relative;
+    margin-left: 800px;
+    top: 50px;
+}
+#Facebook img{
+    width: 50px;
+    height: 50px;
+    border-radius: 10px 10px 10px 10px;
+}
+#Instagram img{
+    width: 50px;
+    height: 50px;
+    border-radius: 10px 10px 10px 10px;
+    margin-left: 20px;
+}
+#Twiter img{
+    width: 50px;
+    height: 50px;
+    border-radius: 10px 10px 10px 10px;
+    margin-left: 20px;
+}
+@media screen and (max-width:900px) {
+    .body{
+        width: 100%;
+        background-image: url(Construction.JPG);
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+        margin-bottom: -200px;
+    }
+    .container{
+        width: 100%;
+        height: 500px;
+        background-size: cover;
+        background-color: #00000091;
+    }
+    .container2{
+        width: 100%;
+        background-color: white;
+        height: 450px;
+        background-size: cover;
+        margin-top: -80px;
+        position: relative;
+    }
+    .logotext {
+        position: relative;
+        margin-left: 134px;
+        color: yellow;
+        font-size: 58px;
+        font-family: Impact;
+        margin-top: 50px;
+    }
+    .logo{
+        position: relative;
+        margin-left: 133px;
+        color: yellow;
+        font-size: 60px;
+        font-family: Impact;
+        margin-top: 100px;
+    }
+    .listbox h4 {
+        font-size: 21px;
+        color: white;
+        position: relative;
+        text-align: center;
+    }
+    .lefttext h4 {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 31px;
+        margin-left: 49px;
+        margin-top: 170px;
+        color: yellow;
+    }
+    .listbox {
+        width: 41%;
+        height: 550px;
+        background-color: #00000094;
+        background-size: solid;
+        position: relative;
+        margin-top: -231px;
+        border: solid white;
+        border-radius: 20px 20px 20px 20px;
+        float: right;
+        margin-right: 69px;
+    }
+    .body2 {
+        width: 100%;
+        background-image: url(Helmet.JPG);
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+        height: 920px;
+    }
+    .Container3 {
+        width: 100%;
+        height: 920px;
+        background-size: cover;
+        background-color: #00000091;
+    }
+    .lefttext2 h3 {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 28px;
+        position: relative;
+        float: right;
+        margin-top: 240px;
+        margin-right: 90px;
+        color: yellow;
+    }
+    .Cover {
+        width: 100%;
+        background-size: solid;
+        background-color: white;
+        height: 600px;
+        margin-top: 35px;
+    }
+    .libox2 {
+        width: 38%;
+        height: 500px;
+        background-color: #00000094;
+        background-size: solid;
+        position: relative;
+        margin-top: 60px;
+        margin-left: 85px;
+        border: solid yellow;
+        border-radius: 20px 20px 20px 20px;
+        float: left;
+    }
+    .icon {
+        position: relative;
+        margin-left: 550px;
+        margin-top: 0px;
+        top: 50px;
+    }
+    .manu{
+        position: relative;
+        margin-left: 20px;
+    }
+    .box1{
+        width: 220px;
+        height: 300px;
+        margin-left: 105px;
+        background-color: white;
+        box-shadow: 1px 1px 10px black;
+    }
+    .box1 h5{
+        width: 80%;
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-top: 10px;
+        font-size: 9px;
+        font-family: Cambria;
+    }
+    .box{
+        width: 100%;
+        background-color: yellow;
+        background-size: solid;
+        height: 20px;
+        margin-top: -5px;
+    }
+    .box1 img{
+        width: 100%;
+        height: 100px;
+        position: relative;
+        margin-top: 15px;
+        margin-bottom: 0px;   
+    }
+    .box2{
+    width: 220px;
+    top: -299px;
+    height: 300px;
+    margin-left: 340px;
+    background-color: white;
+    box-shadow: 1px 1px 10px black;
+    position: relative;
+}
+.box2 h5{
+    width: 80%;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    font-size: 9px;
+    font-family: Cambria;
+}
+.Bbox2{
+    width: 100%;
+    background-color: yellow;
+    background-size: solid;
+    height: 20px;
+    margin-top: -5px;
+}
+.box2 img{
+    width: 100%;
+    height: 100px;
+    position: relative;
+    margin-top: 15px;
+    margin-bottom: 0px;
+    
+}
+.box3{
+    width: 220px;
+    position: relative;
+    top: -600px;
+    height: 300px;
+    margin-left: 575px;
+    background-color: white;
+    box-shadow: 1px 1px 10px black;
+}
+.box3 h5{
+    width: 80%;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    font-size: 9px;
+    font-family: Cambria;
+}
+.Bbox3{
+    width: 100%;
+    background-color: yellow;
+    background-size: solid;
+    height: 20px;
+    margin-top: -5px;
+}
+.box3 img{
+    width: 100%;
+    height: 100px;
+    position: relative;
+    margin-top: 15px;
+    margin-bottom: 0px;
+    
+}
+}
+@media screen and (max-width:850px){
+    .logo {
+        position: relative;
+        margin-left: 110px;
+        color: yellow;
+        font-size: 60px;
+        font-family: Impact;
+        margin-top: 100px;
+    }
+    .box3 {
+        width: 220px;
+        position: relative;
+        top: -600px;
+        height: 300px;
+        margin-left: 541px;
+        background-color: white;
+        box-shadow: 1px 1px 10px black;
+    }
+    .box2 {
+        width: 220px;
+        top: -299px;
+        height: 300px;
+        margin-left: 308px;
+        background-color: white;
+        box-shadow: 1px 1px 10px black;
+        position: relative;
+    }
+    .box1 {
+        width: 220px;
+        height: 300px;
+        margin-left: 75px;
+        background-color: white;
+        box-shadow: 1px 1px 10px black;
+    }
+    .icon {
+        position: relative;
+        margin-left: 500px;
+        margin-top: 0px;
+        top: 50px;
+    }
+    .libox2 {
+        width: 38%;
+        height: 500px;
+        background-color: #00000094;
+        background-size: solid;
+        position: relative;
+        margin-top: 60px;
+        margin-left: 55px;
+        border: solid yellow;
+        border-radius: 20px 20px 20px 20px;
+        float: left;
+    }
+    .lefttext2 h3 {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 28px;
+        position: relative;
+        float: right;
+        margin-top: 240px;
+        margin-right: 52px;
+        color: yellow;
+    }
+}
+@media screen and (max-width:800px){
+    .logo {
+        position: relative;
+        margin-left: 75px;
+        color: yellow;
+        font-size: 60px;
+        font-family: Impact;
+        margin-top: 100px;
+    }
+    .box3 {
+        width: 220px;
+        position: relative;
+        top: -600px;
+        height: 300px;
+        margin-left: 514px;
+        background-color: white;
+        box-shadow: 1px 1px 10px black;
+    }
+    .box2 {
+        width: 220px;
+        top: -299px;
+        height: 300px;
+        margin-left: 282px;
+        background-color: white;
+        box-shadow: 1px 1px 10px black;
+        position: relative;
+    }
+    .box1 {
+        width: 220px;
+        height: 300px;
+        margin-left: 50px;
+        background-color: white;
+        box-shadow: 1px 1px 10px black;
+    }
+    .Cover p {
+        margin-left: 100px;
+        margin-right: 100px;
+        margin-top: 20px;
+        font-size: 18px;
+    }
+    .logotext {
+        position: relative;
+        margin-left: 91px;
+        color: yellow;
+        font-size: 58px;
+        font-family: Impact;
+        margin-top: 70px;
+    }
+    .listbox {
+        width: 35%;
+        height: 550px;
+        background-color: #00000094;
+        background-size: solid;
+        position: relative;
+        margin-top: -294px;
+        border: solid white;
+        border-radius: 20px 20px 20px 20px;
+        float: right;
+        margin-right: 55px;
+    }
+    .lefttext h4 {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 28px;
+        margin-left: 49px;
+        margin-top: 240px;
+        color: yellow;
+    }
+    .container2 {
+        width: 100%;
+        background-color: white;
+        height: 900px;
+        background-size: cover;
+        margin-top: -80px;
+        position: relative;
+    }
+}
+    @media screen and (max-width:750px){
+    .icon {
+        position: relative;
+        margin-left: 480px;
+        margin-top: 0px;
+        top: 50px;
+    }
+    #Facebook img {
+        width: 40px;
+        height: 40px;
+        border-radius: 10px 10px 10px 10px;
+    }
+    #Instagram img {
+        width: 40px;
+        height: 40px;
+        border-radius: 10px 10px 10px 10px;
+        margin-left: 20px;
+    }
+    #Twiter img {
+        width: 40px;
+        height: 40px;
+        border-radius: 10px 10px 10px 10px;
+        margin-left: 20px;
+    }
+    .box2 {
+        width: 280px;
+        top: -353px;
+        height: 353px;
+        margin-left: 369px;
+        background-color: white;
+        box-shadow: 1px 1px 10px black;
+        position: relative;
+    }
+    .box2 h5 {
+        width: 80%;
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-top: 10px;
+        font-size: 12px;
+        font-family: Cambria;
+    }
+    .box1 {
+        width: 280px;
+        height: 353px;
+        margin-left: 74px;
+        background-color: white;
+        box-shadow: 1px 1px 10px black;
+    }
+    .box1 h5 {
+        width: 80%;
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-top: 10px;
+        font-size: 12px;
+        font-family: Cambria;
+    }
+    .box3 {
+        width: 477px;
+        position: relative;
+        top: -323px;
+        height: 325px;
+        margin-left: 124px;
+        background-color: white;
+        box-shadow: 1px 1px 10px black;
+    }
+    .box3 h5 {
+        width: 85%;
+        margin-left: 35px;
+        margin-right: 20px;
+        margin-top: 10px;
+        font-size: 12px;
+        font-family: Cambria;
+    }
+    .logo {
+        position: relative;
+        margin-left: 105px;
+        color: yellow;
+        font-size: 50px;
+        font-family: Impact;
+        margin-top: 100px;
+    }
+    .logotext {
+        position: relative;
+        margin-left: 91px;
+        color: yellow;
+        font-size: 52px;
+        font-family: Impact;
+        margin-top: 70px;
+    }
+    .Cover p {
+        margin-left: 73px;
+        margin-right: 80px;
+        margin-top: 20px;
+        font-size: 17px;
+    }
+    .Cover h2 {
+        position: relative;
+        text-align: center;
+        margin-top: 50px;
+        font-size: 28px;
+    }
+    .listbox {
+        width: 35%;
+        height: 550px;
+        background-color: #00000094;
+        background-size: solid;
+        position: relative;
+        margin-top: -294px;
+        border: solid white;
+        border-radius: 20px 20px 20px 20px;
+        float: right;
+        margin-right: 67px;
+    }
+    .icon {
+        position: relative;
+        margin-left: 430px;
+        margin-top: 0px;
+        top: 50px;
+    }
+}
+@media screen and (max-width:700px){
+    .logo {
+        position: relative;
+        margin-left: 105px;
+        color: yellow;
+        font-size: 45px;
+        font-family: Impact;
+        margin-top: 100px;
+    }
+    .lefttext2 h3 {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 23px;
+        position: relative;
+        float: right;
+        margin-top: 240px;
+        margin-right: 42px;
+        color: yellow;
+    }
+    .box1 {
+        width: 280px;
+        height: 353px;
+        margin-left: 52px;
+        background-color: white;
+        box-shadow: 1px 1px 10px black;
+    }
+    .box2 {
+        width: 280px;
+        top: -353px;
+        height: 353px;
+        margin-left: 346px;
+        background-color: white;
+        box-shadow: 1px 1px 10px black;
+        position: relative;
+    }
+    .box3 {
+        width: 477px;
+        position: relative;
+        top: -323px;
+        height: 325px;
+        margin-left: 100px;
+        background-color: white;
+        box-shadow: 1px 1px 10px black;
+    }
+    .logotext {
+        position: relative;
+        margin-left: 125px;
+        color: yellow;
+        font-size: 40px;
+        font-family: Impact;
+        margin-top: 70px;
+    }
+    .Cover h2 {
+        position: relative;
+        text-align: center;
+        margin-top: 50px;
+        font-size: 26px;
+    }
+    .listbox h4 {
+        font-size: 17px;
+        color: white;
+        position: relative;
+        text-align: center;
+    }
+}
+@media screen and (max-width:650px){
+    .logo {
+        position: relative;
+        margin-left: 82px;
+        color: yellow;
+        font-size: 45px;
+        font-family: Impact;
+        margin-top: 100px;
+    }
+    .container2 {
+        width: 100%;
+        background-color: white;
+        height: 1300px;
+        background-size: cover;
+        margin-top: -80px;
+        position: relative;
+    }
+    .box1 {
+        width: 477px;
+        height: 353px;
+        margin-left: 80px;
+        background-color: white;
+        box-shadow: 1px 1px 10px black;
+    }
+    .box1 img {
+        width: 100%;
+        height: 120px;
+        position: relative;
+        margin-top: 5px;
+        margin-bottom: 0px;
+    }
+    .box1 h5 {
+        width: 80%;
+        margin-left: 48px;
+        margin-right: 20px;
+        margin-top: 10px;
+        font-size: 12px;
+        font-family: Cambria;
+    }
+    .box2 {
+        width: 477px;
+        top: 34px;
+        height: 353px;
+        margin-left: 80px;
+        background-color: white;
+        box-shadow: 1px 1px 10px black;
+        position: relative;
+    }
+    .box2 img {
+        width: 100%;
+        height: 120px;
+        position: relative;
+        margin-top: -4px;
+        margin-bottom: 0px;
+    }
+    .box2 h5 {
+        width: 80%;
+        margin-left: 48px;
+        margin-right: 20px;
+        margin-top: 10px;
+        font-size: 12px;
+        font-family: Cambria;
+    }
+    .box3 {
+        width: 477px;
+        position: relative;
+        top: 72px;
+        height: 353px;
+        margin-left: 80px;
+        background-color: white;
+        box-shadow: 1px 1px 10px black;
+    }
+    .box3 img {
+        width: 100%;
+        height: 130px;
+        position: relative;
+        margin-top: 7px;
+        margin-bottom: 0px;
+    }
+    .box3 h5 {
+        width: 85%;
+        margin-left: 42px;
+        margin-right: 20px;
+        margin-top: 10px;
+        font-size: 12px;
+        font-family: Cambria;
+    }
+    .logotext {
+        position: relative;
+        margin-left: 100px;
+        color: yellow;
+        font-size: 40px;
+        font-family: Impact;
+        margin-top: 70px;
+    }
+    .lefttext h4 {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 31px;
+        margin-left: 140px;
+        margin-top: 33px;
+        color: yellow;
+    }
+    .listbox {
+        width: 60%;
+        height: 565px;
+        background-color: #00000094;
+        background-size: solid;
+        position: relative;
+        margin-top: 19px;
+        border: solid white;
+        border-radius: 20px 20px 20px 20px;
+        float: right;
+        margin-right: 130px;
+    }
+    .listbox h4 {
+        font-size: 24px;
+        color: white;
+        position: relative;
+        text-align: center;
+    }
+    #Message {
+        height: 120px;
+        width: 70%;
+        margin-bottom: 20px;
+        border-radius: 10px 10px 10px 10px;
+    }
+    #Button {
+        position: relative;
+        height: 24px;
+        width: 72px;
+        border-radius: 10px 10px 10px 10px;
+        font-size: 17px;
+        margin-top: -6px;
+    }
+    #Contact {
+        margin-bottom: 20px;
+        border-radius: 10px 10px 10px 10px;
+        height: 28px;
+        width: 70%;
+    }
+    #Email {
+        width: 70%;
+        margin-bottom: 20px;
+        height: 28px;
+        border-radius: 10px 10px 10px 10px;
+    }
+    #Name {
+        margin-bottom: 20px;
+        height: 28px;
+        border-radius: 10px 10px 10px 10px;
+        width: 70%;
+    }
+    .libox2 {
+        width: 40%;
+        height: 444px;
+        background-color: #00000094;
+        background-size: solid;
+        position: relative;
+        margin-top: 60px;
+        margin-left: 35px;
+        border: solid yellow;
+        border-radius: 20px 20px 20px 20px;
+        float: left;
+    }
+    .icon {
+        position: relative;
+        margin-left: 385px;
+        margin-top: 0px;
+        top: 50px;
+    }
+    ul {
+        font-size: 19px;
+        font-family: 'Arial Narrow Bold';
+        color: black;
+        display: inline-flex;
+        margin-top: 40px;
+        list-style-type: none;
+    }
+    li {
+        margin: 12px;
+        color: white;
+    }
+    .manu {
+        position: relative;
+        margin-left: 30px;
+    }
+    
+}
+@media screen and (max-width:600px){
+    .libox2 {
+        width: 50%;
+        height: 450px;
+        background-color: #00000094;
+        background-size: solid;
+        position: relative;
+        margin-top: -620px;
+        margin-left: 143px;
+        border: solid yellow;
+        border-radius: 20px 20px 20px 20px;
+        float: left;
+    }
+    .icon {
+        position: relative;
+        margin-left: 215px;
+        margin-top: -1px;
+        top: 50px;
+    }
+.logo {
+    position: relative;
+    margin-left: 82px;
+    color: yellow;
+    font-size: 37px;
+    font-family: Impact;
+    margin-top: 98px;
+}
+.box1 {
+    width: 430px;
+    height: 340px;
+    margin-left: 85px;
+    background-color: white;
+    box-shadow: 1px 1px 10px black;
+}
+.box2 {
+    width: 430px;
+    top: 34px;
+    height: 340px;
+    margin-left: 85px;
+    background-color: white;
+    box-shadow: 1px 1px 10px black;
+    position: relative;
+}
+.box3 {
+    width: 430px;
+    position: relative;
+    top: 72px;
+    height: 340px;
+    margin-left: 85px;
+    background-color: white;
+    box-shadow: 1px 1px 10px black;
+}
+.container {
+    width: 100%;
+    height: 426px;
+    background-size: cover;
+    background-color: #00000091;
+}
+.logotext {
+    position: relative;
+    margin-left: 75px;
+    color: yellow;
+    font-size: 37px;
+    font-family: Impact;
+    margin-top: 70px;
+}
+.lefttext h4 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 28px;
+    margin-left: 104px;
+    margin-top: 33px;
+    color: yellow;
+}
+.lefttext2 h3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 32px;
+    position: relative;
+    float: right;
+    margin-top: 590px;
+    margin-right: 116px;
+    color: yellow;
+}
+}
+@media screen and (max-width:550px){
+    .logo {
+        position: relative;
+        margin-left: 58px;
+        color: yellow;
+        font-size: 35px;
+        font-family: Impact;
+        margin-top: 98px;
+    }
+    .box1 {
+        width: 330px;
+        height: 340px;
+        margin-left: 109px;
+        background-color: white;
+        box-shadow: 1px 1px 10px black;
+    }
+    .box2 {
+        width: 330px;
+        top: 34px;
+        height: 340px;
+        margin-left: 109px;
+        background-color: white;
+        box-shadow: 1px 1px 10px black;
+        position: relative;
+    }
+    .box3 {
+        width: 330px;
+        position: relative;
+        top: 72px;
+        height: 340px;
+        margin-left: 109px;
+        background-color: white;
+        box-shadow: 1px 1px 10px black;
+    }
+    .Cover p {
+        margin-left: 73px;
+        margin-right: 80px;
+        margin-top: 20px;
+        font-size: 15px;
+    }
+    .Cover h2 {
+        position: relative;
+        text-align: center;
+        margin-top: 50px;
+        font-size: 22px;
+    }
+    .logotext {
+        position: relative;
+        margin-left: 93px;
+        color: yellow;
+        font-size: 30px;
+        font-family: Impact;
+        margin-top: 47px;
+    }
+    .libox2 {
+        width: 50%;
+        height: 450px;
+        background-color: #00000094;
+        background-size: solid;
+        position: relative;
+        margin-top: -620px;
+        margin-left: 125px;
+        border: solid yellow;
+        border-radius: 20px 20px 20px 20px;
+        float: left;
+    }
+    .icon {
+        position: relative;
+        margin-left: 185px;
+        margin-top: -1px;
+        top: 30px;
+    }
+    .lefttext2 h3 {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 28px;
+        position: relative;
+        float: right;
+        margin-top: 590px;
+        margin-right: 116px;
+        color: yellow;
+    }
+
+}
+@media screen and (max-width:500px){
+.logo {
+    position: relative;
+    margin-left: 62px;
+    color: yellow;
+    font-size: 30px;
+    font-family: Impact;
+    margin-top: 98px;
+}
+.box1 {
+    width: 330px;
+    height: 340px;
+    margin-left: 75px;
+    background-color: white;
+    box-shadow: 1px 1px 10px black;
+}
+.box2 {
+    width: 330px;
+    top: 34px;
+    height: 340px;
+    margin-left: 75px;
+    background-color: white;
+    box-shadow: 1px 1px 10px black;
+    position: relative;
+}
+.box3 {
+    width: 330px;
+    position: relative;
+    top: 72px;
+    height: 340px;
+    margin-left: 75px;
+    background-color: white;
+    box-shadow: 1px 1px 10px black;
+}
+.logotext {
+    position: relative;
+    margin-left: 84px;
+    color: yellow;
+    font-size: 26px;
+    font-family: Impact;
+    margin-top: 47px;
+}
+.listbox h4 {
+    font-size: 20px;
+    color: white;
+    position: relative;
+    text-align: center;
+}
+.listbox h2 {
+    color: yellow;
+    position: relative;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 20px;
+}
+.lefttext h4 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    margin-left: 104px;
+    margin-top: 33px;
+    color: yellow;
+}
+.listbox {
+    width: 60%;
+    height: 535px;
+    background-color: #00000094;
+    background-size: solid;
+    position: relative;
+    margin-top: 19px;
+    border: solid white;
+    border-radius: 20px 20px 20px 20px;
+    float: right;
+    margin-right: 130px;
+}
+.listbox {
+    width: 60%;
+    height: 535px;
+    background-color: #00000094;
+    background-size: solid;
+    position: relative;
+    margin-top: 19px;
+    border: solid white;
+    border-radius: 20px 20px 20px 20px;
+    float: right;
+    margin-right: 107px;
+}
+.lefttext2 h3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 28px;
+    position: relative;
+    float: right;
+    margin-top: 590px;
+    margin-right: 90px;
+    color: yellow;
+}
+}
+@media screen and (max-width:450px){
+    .logo {
+        position: relative;
+        margin-left: 37px;
+        color: yellow;
+        font-size: 30px;
+        font-family: Impact;
+        margin-top: 98px;
+    }
+    .box1 {
+        width: 310px;
+        height: 340px;
+        margin-left: 60px;
+        background-color: white;
+        box-shadow: 1px 1px 10px black;
+    }
+    .box2 {
+        width: 310px;
+        top: 34px;
+        height: 340px;
+        margin-left: 60px;
+        background-color: white;
+        box-shadow: 1px 1px 10px black;
+        position: relative;
+    }
+    .box3 {
+        width: 310px;
+        position: relative;
+        top: 72px;
+        height: 340px;
+        margin-left: 60px;
+        background-color: white;
+        box-shadow: 1px 1px 10px black;
+    }
+    .box1 h5 {
+        width: 80%;
+        margin-left: 30px;
+        margin-right: 20px;
+        margin-top: 10px;
+        font-size: 11px;
+        font-family: Cambria;
+    }
+    .box2 h5 {
+        width: 80%;
+        margin-left: 30px;
+        margin-right: 20px;
+        margin-top: 10px;
+        font-size: 11px;
+        font-family: Cambria;
+    }
+    .box3 h5 {
+        width: 85%;
+        margin-left: 30px;
+        margin-right: 20px;
+        margin-top: 10px;
+        font-size: 11px;
+        font-family: Cambria;
+    }
+    .Cover p {
+        margin-left: 50px;
+        margin-right: 60px;
+        margin-top: 20px;
+        font-size: 14px;
+    }
+    .logotext {
+        position: relative;
+        margin-left: 45px;
+        color: yellow;
+        font-size: 30px;
+        font-family: Impact;
+        margin-top: 47px;
+    }
+    .manu {
+        position: relative;
+        margin-left: 12px;
+    }
+    li {
+        margin: 4px;
+        color: white;
+    }
+    ul {
+        font-size: 19px;
+        font-family: 'Arial Narrow Bold';
+        color: black;
+        display: inline-flex;
+        margin-top: 40px;
+        list-style-type: none;
+        margin-left: 20px;
+    }
+    .lefttext h4 {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 24px;
+        margin-left: 70px;
+        margin-top: 33px;
+        color: yellow;
+    }
+    .listbox h4 {
+        font-size: 18px;
+        color: white;
+        position: relative;
+        text-align: center;
+    }
+    .libox2 {
+        width: 50%;
+        height: 450px;
+        background-color: #00000094;
+        background-size: solid;
+        position: relative;
+        margin-top: -620px;
+        margin-left: 107px;
+        border: solid yellow;
+        border-radius: 20px 20px 20px 20px;
+        float: left;
+    }
+    .icon {
+        position: relative;
+        margin-left: 127px;
+        margin-top: -1px;
+        top: 30px;
+    }
+    .lefttext2 h3 {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 27px;
+        position: relative;
+        float: right;
+        margin-top: 590px;
+        margin-right: 71px;
+        color: yellow;
+    }
+    .libox2 h2 {
+        color: yellow;
+        position: relative;
+        text-align: center;
+        font-size: 24px;
+        margin-top: 20px;
+    }
+}
+@media screen and (max-width:400px){
+    .logo {
+        position: relative;
+        margin-left: 44px;
+        color: yellow;
+        font-size: 27px;
+        font-family: Impact;
+        margin-top: 98px;
+    }
+    .container {
+        width: 100%;
+        height: 375px;
+        background-size: cover;
+        background-color: #00000091;
+    }
+    .box1 {
+        width: 250px;
+        height: 335px;
+        margin-left: 75px;
+        background-color: white;
+        box-shadow: 1px 1px 10px black;
+    }
+    .box2 {
+        width: 250px;
+        top: 34px;
+        height: 340px;
+        margin-left: 75px;
+        background-color: white;
+        box-shadow: 1px 1px 10px black;
+        position: relative;
+    }
+    .box3 {
+        width: 250px;
+        position: relative;
+        top: 72px;
+        height: 340px;
+        margin-left: 75px;
+        background-color: white;
+        box-shadow: 1px 1px 10px black;
+    }
+    .box3 h5 {
+        width: 80%;
+        margin-left: 24px;
+        margin-right: 11px;
+        margin-top: 4px;
+        font-size: 11px;
+        font-family: Cambria;
+    }
+    .logotext {
+        position: relative;
+        margin-left: 58px;
+        color: yellow;
+        font-size: 25px;
+        font-family: Impact;
+        margin-top: 47px;
+    }
+    .lefttext h4 {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 21px;
+        margin-left: 70px;
+        margin-top: 33px;
+        color: yellow;
+    }
+    .libox2 {
+        width: 60%;
+        height: 450px;
+        background-color: #00000094;
+        background-size: solid;
+        position: relative;
+        margin-top: -559px;
+        margin-left: 75px;
+        border: solid yellow;
+        border-radius: 20px 20px 20px 20px;
+        float: left;
+    }
+    .lefttext2 h3 {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 22px;
+        position: relative;
+        float: right;
+        margin-top: 537px;
+        margin-right: 78px;
+        color: yellow;
+    }
+    .icon {
+        position: relative;
+        margin-left: 105px;
+        margin-top: -1px;
+        top: 30px;
+    }
+    .listbox {
+        width: 60%;
+        height: 535px;
+        background-color: #00000094;
+        background-size: solid;
+        position: relative;
+        margin-top: 19px;
+        border: solid white;
+        border-radius: 20px 20px 20px 20px;
+        float: right;
+        margin-right: 78px;
+    }
+}
+@media screen and (max-width:350px){
+    .manu {
+        position: relative;
+        margin-left: 3px;
+    }
+    li {
+        margin: 8px;
+        color: white;
+        font-size: 16px;
+    
+}
+.logo {
+    position: relative;
+    margin-left: 44px;
+    color: yellow;
+    font-size: 24px;
+    font-family: Impact;
+    margin-top: 77px;
+}
+.box1 {
+    width: 220px;
+    height: 370px;
+    margin-left: 60px;
+    background-color: white;
+    box-shadow: 0px 0px 5px black;
+}
+.rect {
+    width: 100%;
+    height: 37px;
+    background-color: yellow;
+    font-size: 16px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: relative;
+    text-align: center;
+    color: blue;
+}
+.box2 {
+    width: 220px;
+    top: 34px;
+    height: 370px;
+    margin-left: 60px;
+    background-color: white;
+    box-shadow: 0px 0px 5px black;
+    position: relative;
+}
+.box3 {
+    width: 220px;
+    position: relative;
+    top: 72px;
+    height: 360px;
+    margin-left: 60px;
+    background-color: white;
+    box-shadow: 0px 0px 5px black;
+}
+.box1 img {
+    width: 100%;
+    height: 100px;
+    position: relative;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+.box1 h5 {
+    width: 80%;
+    margin-left: 25px;
+    margin-right: 20px;
+    margin-top: 10px;
+    font-size: 11px;
+    font-family: Cambria;
+}
+.box1 h2 {
+    font-size: 18px;
+}
+.box2 h2 {
+    font-size: 18px;
+}
+.box3 h2 {
+    font-size: 18px;
+}
+.box2 img {
+    width: 100%;
+    height: 100px;
+    position: relative;
+    margin-top: -4px;
+    margin-bottom: 0px;
+}
+.box2 h5 {
+    width: 80%;
+    margin-left: 25px;
+    margin-right: 20px;
+    margin-top: 10px;
+    font-size: 11px;
+    font-family: Cambria;
+}
+.box3 img {
+    width: 100%;
+    height: 100px;
+    position: relative;
+    margin-top: 7px;
+    margin-bottom: 0px;
+}
+.logotext {
+    position: relative;
+    margin-left: 50px;
+    color: yellow;
+    font-size: 24px;
+    font-family: Impact;
+    margin-top: 47px;
+}
+.Cover h2 {
+    position: relative;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 20px;
+}
+.Cover p {
+    margin-left: 35px;
+    margin-right: 40px;
+    margin-top: 20px;
+    font-size: 13px;
+}
+.lefttext h4 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    margin-left: 55px;
+    margin-top: 33px;
+    color: yellow;
+}
+.listbox h4 {
+    font-size: 16px;
+    color: white;
+    position: relative;
+    text-align: center;
+}
+.listbox {
+    width: 68%;
+    height: 480px;
+    background-color: #00000094;
+    background-size: solid;
+    position: relative;
+    margin-top: 35px;
+    border: solid white;
+    border-radius: 20px 20px 20px 20px;
+    float: right;
+    margin-right: 58px;
+}
+.libox2 {
+    width: 60%;
+    height: 450px;
+    background-color: #00000094;
+    background-size: solid;
+    position: relative;
+    margin-top: -559px;
+    margin-left: 60px;
+    border: solid yellow;
+    border-radius: 20px 20px 20px 20px;
+    float: left;
+}
+.lefttext2 h3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    position: relative;
+    float: right;
+    margin-top: 537px;
+    margin-right: 59px;
+    color: yellow;
+}
+#Facebook img {
+    width: 30px;
+    height: 30px;
+    border-radius: 10px 10px 10px 10px;
+}
+#Instagram img {
+    width: 30px;
+    height: 30px;
+    border-radius: 10px 10px 10px 10px;
+    margin-left: 20px;
+}
+#Twiter img {
+    width: 30px;
+    height: 30px;
+    border-radius: 10px 10px 10px 10px;
+    margin-left: 20px;
+}
+.icon {
+    position: relative;
+    margin-left: 95px;
+    margin-top: -1px;
+    top: 30px;
+}
+}
+@media screen and (max-width:300px){
+    .manu {
+        position: relative;
+        margin-left: -6px;
+    }
+    li {
+        margin: 4px;
+        color: white;
+        font-size: 14px;
+    }
+    .logo {
+        position: relative;
+        margin-left: 50px;
+        color: yellow;
+        font-size: 20px;
+        font-family: Impact;
+        margin-top: 77px;
+    }
+    .box1 {
+        width: 200px;
+        height: 370px;
+        margin-left: 50px;
+        background-color: white;
+        box-shadow: 0px 0px 5px black;
+    }
+    .box2 {
+        width: 200px;
+        top: 34px;
+        height: 370px;
+        margin-left: 50px;
+        background-color: white;
+        box-shadow: 0px 0px 5px black;
+        position: relative;
+    }
+    .box3 {
+        width: 200px;
+        position: relative;
+        top: 72px;
+        height: 360px;
+        margin-left: 50px;
+        background-color: white;
+        box-shadow: 0px 0px 5px black;
+    }
+    .logotext {
+        position: relative;
+        margin-left: 58px;
+        color: yellow;
+        font-size: 20px;
+        font-family: Impact;
+        margin-top: 47px;
+    }
+    .listbox {
+        width: 68%;
+        height: 480px;
+        background-color: #00000094;
+        background-size: solid;
+        position: relative;
+        margin-top: 35px;
+        border: solid white;
+        border-radius: 20px 20px 20px 20px;
+        float: right;
+        margin-right: 50px;
+    }
+    .lefttext h4 {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 18px;
+        margin-left: 46px;
+        margin-top: 33px;
+        color: yellow;
+    }
+    .libox2 {
+        width: 60%;
+        height: 450px;
+        background-color: #00000094;
+        background-size: solid;
+        position: relative;
+        margin-top: -559px;
+        margin-left: 50px;
+        border: solid yellow;
+        border-radius: 20px 20px 20px 20px;
+        float: left;
+    }
+    .libox2 h2 {
+        color: yellow;
+        position: relative;
+        text-align: center;
+        font-size: 20px;
+        margin-top: 20px;
+    }
+    .icon {
+        position: relative;
+        margin-left: 75px;
+        margin-top: -1px;
+        top: 30px;
+    }
+    .lefttext2 h3 {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 19px;
+        position: relative;
+        float: right;
+        margin-top: 537px;
+        margin-right: 41px;
+        color: yellow;
+    }
+}
+@media screen and (max-width:250px){
+    .logo {
+        position: relative;
+        margin-left: 42px;
+        color: yellow;
+        font-size: 18px;
+        font-family: Impact;
+        margin-top: 77px;
+    }
+    .box1 {
+        width: 193px;
+        height: 370px;
+        margin-left: 30px;
+        background-color: white;
+        box-shadow: 0px 0px 5px black;
+    }
+    .box2 {
+        width: 193px;
+        top: 34px;
+        height: 370px;
+        margin-left: 30px;
+        background-color: white;
+        box-shadow: 0px 0px 5px black;
+        position: relative;
+    }
+    .box3 {
+        width: 193px;
+        position: relative;
+        top: 72px;
+        height: 360px;
+        margin-left: 30px;
+        background-color: white;
+        box-shadow: 0px 0px 5px black;
+    }
+    .logotext {
+        position: relative;
+        margin-left: 43px;
+        color: yellow;
+        font-size: 18px;
+        font-family: Impact;
+        margin-top: 47px;
+    }
+    .lefttext h4 {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 16px;
+        margin-left: 33px;
+        margin-top: 33px;
+        color: yellow;
+    }
+    .listbox h2 {
+        color: yellow;
+        position: relative;
+        text-align: center;
+        font-size: 20px;
+        margin-top: 20px;
+    }
+    .listbox {
+        width: 68%;
+        height: 480px;
+        background-color: #00000094;
+        background-size: solid;
+        position: relative;
+        margin-top: 35px;
+        border: solid white;
+        border-radius: 20px 20px 20px 20px;
+        float: right;
+        margin-right: 40px;
+    }
+    .libox2 {
+        width: 70%;
+        height: 450px;
+        background-color: #00000094;
+        background-size: solid;
+        position: relative;
+        margin-top: -559px;
+        margin-left: 35px;
+        border: solid yellow;
+        border-radius: 20px 20px 20px 20px;
+        float: left;
+    }
+    .lefttext2 h3 {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 18px;
+        position: relative;
+        float: right;
+        margin-top: 537px;
+        margin-right: 23px;
+        color: yellow;
+    }
+    .icon {
+        position: relative;
+        margin-left: 50px;
+        margin-top: -1px;
+        top: 30px;
+    }
+}
